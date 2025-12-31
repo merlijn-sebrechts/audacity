@@ -83,7 +83,7 @@ apps:
       - alsa
       - audio-playback
       - audio-record
-      - bluetooth
+      - bluez
       - home
       - intel-npu
       - jack1
